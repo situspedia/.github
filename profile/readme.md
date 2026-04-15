@@ -1,65 +1,50 @@
-# Situspedia
+<div align="center">
+  <h1>🚀 Situspedia</h1>
+  <p><b>Building digital empires. Dominating the noise.</b></p>
+  
+  [![Website](https://img.shields.io/badge/Visit-situspedia.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://situspedia.com)
+  [![Contact](https://img.shields.io/badge/Email-info@situspedia.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@situspedia.com)
+</div>
 
-**We build digital empires for global brands that are tired of looking basic and ready to start dominating the noise.**
+<br>
 
----
+### 💡 Who We Are
+We are a premium tech partner transforming ambitious brands into digital leaders. We don't just write code; we operate at the intersection of cutting-edge engineering and strategic design to build scalable, high-performance ecosystems.
 
-## 💡 About Us
+### 🛠 Tech Stack
+*(Click the sections below to expand)*
 
-Situspedia is a premium technology partner dedicated to transforming ambitious brands into digital leaders. We don't just build websites or apps; we architect scalable ecosystems that command attention and drive performance. 
+<details>
+  <summary><b>🎨 Frontend & Mobile Development</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" />
+</details>
 
-Our team operates at the intersection of cutting-edge engineering and strategic design, ensuring that every line of code contributes to your market dominance.
+<details>
+  <summary><b>⚙️ Backend & Infrastructure</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</details>
 
----
-
-## 🛠 Our Technological Excellence
-
-We pride ourselves on a diverse and deep technical foundation. Our engineers are proficient across a wide array of modern stacks to ensure the right tool is used for every unique challenge.
-
-### Frontend Architecture
-* **Frameworks:** Next.js, React.js, Vue.js (Nuxt), Angular, Svelte.
-* **Styling & UI:** Tailwind CSS, Material UI, Framer Motion, Styled Components.
-* **State Management:** Redux, TanStack Query, Zustand.
-
-### Mobile Development
-* **Cross-Platform:** Flutter, React Native.
-* **Native:** Swift (iOS), Kotlin (Android).
-
-### Backend & Infrastructure
-* **Languages:** Node.js (TypeScript), Go, Python, Java (Spring Boot), PHP (Laravel), Ruby on Rails.
-* **API Design:** GraphQL, gRPC, RESTful APIs, WebSockets.
-* **Databases:** PostgreSQL, MongoDB, Redis, MySQL, Cassandra, Elasticsearch.
-
-### Cloud & DevOps
-* **Platforms:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure.
-* **Containerization:** Docker, Kubernetes.
-* **Infrastructure as Code:** Terraform, CloudFormation.
-* **CI/CD:** GitHub Actions, GitLab CI, Jenkins.
-
-### Emerging Tech
-* **AI/ML:** TensorFlow, PyTorch, OpenAI Integration.
-* **Web3:** Solidity, Rust, Ethers.js.
-
----
-
-## 🌐 Open Source & Contributions
-
-While we maintain proprietary systems for our global partners, we believe in giving back to the developer community. Explore our public repositories for:
-- Performance-driven boilerplate templates.
-- Custom internal tooling and libraries.
-- Technical research and documentation.
-
----
-
-## 🤝 Connect with Situspedia
-
-We are always looking for visionary partners and top-tier talent.
-
-- **Official Website:** [situspedia.com](https://situspedia.com)
-- **Business Inquiries:** [info@situspedia.com](mailto:info@situspedia.com)
-
----
+<details>
+  <summary><b>☁️ Cloud, DevOps & Emerging Tech</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white" />
+</details>
 
 <div align="center">
-  <p>© 2026 Situspedia. All Rights Reserved.</p>
+  <p><small>© 2026 Situspedia. All Rights Reserved.</small></p>
 </div>
