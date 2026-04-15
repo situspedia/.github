@@ -57,7 +57,6 @@ We are always looking for visionary partners and top-tier talent.
 
 - **Official Website:** [situspedia.com](https://situspedia.com)
 - **Business Inquiries:** [info@situspedia.com](mailto:info@situspedia.com)
-- **LinkedIn:** [Situspedia](https://linkedin.com/company/situspedia)
 
 ---
 
