@@ -6,8 +6,6 @@
   [![Contact](https://img.shields.io/badge/Email-info@situspedia.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@situspedia.com)
 </div>
 
-<br>
-
 ### 💡 Who We Are
 We are a premium tech partner transforming ambitious brands into digital leaders. We don't just write code; we operate at the intersection of cutting-edge engineering and strategic design to build scalable, high-performance ecosystems.
 
